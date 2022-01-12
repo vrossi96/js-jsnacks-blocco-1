@@ -26,6 +26,7 @@ for (let i = 0; i < allNumbers.length; i++) {
 }
 
 */
+let number;
 let sum = 0;
 for (let i = 0; i < 10; i++){
   number = parseInt(prompt('Inserisci un numero', 5))
